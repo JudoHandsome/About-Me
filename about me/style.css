@@ -1,0 +1,35 @@
+.ul {
+    justify-content: center;
+    align-items: center;
+    width: 265px;
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-size: 21px;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.p {
+    color: rgb(255, 255, 255);
+    
+}
+
+.div {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+body {
+   
+    min-height: 100vh;
+    background-color: black;
+}
+
+.ig {
+    animation: ease-out;
+    animation-duration: 2s;
+    color: rgb(136, 231, 255);
+    list-style-type: none;
+    text-decoration: none;
+}
